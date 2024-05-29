@@ -5,15 +5,8 @@ h1{
   font-size: 300%;
   color: orange;
   text-decoration: underline;
-  text-decoration-style: wavy;
+  text-decoration-style: rigid;
   font-family: "Lucida Handwriting";
-}
-h3{
-  text-decoration: underline;
-  text-decoration-style: wavy;
-  font-family: "Lucida Handwriting";
-  font-size: 200%;
-  color: orange;
 }
 img{
   height: 250px;
